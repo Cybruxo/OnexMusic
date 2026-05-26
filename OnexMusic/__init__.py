@@ -26,7 +26,7 @@ git()
 dbb()
 heroku()
 
-app = Anony()
+app = Cybruxo()
 userbot = Userbot()
 
 from .platforms import *
